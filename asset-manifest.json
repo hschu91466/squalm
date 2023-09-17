@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/squalm/static/css/main.edb3801a.css",
+    "main.js": "/squalm/static/js/main.7f8e4180.js",
+    "static/media/videoBg.mp4": "/squalm/static/media/videoBg.56441fcbb87daf6a532a.mp4",
+    "index.html": "/squalm/index.html",
+    "main.edb3801a.css.map": "/squalm/static/css/main.edb3801a.css.map",
+    "main.7f8e4180.js.map": "/squalm/static/js/main.7f8e4180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb3801a.css",
+    "static/js/main.7f8e4180.js"
+  ]
+}
